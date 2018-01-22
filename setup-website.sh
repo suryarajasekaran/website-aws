@@ -1,5 +1,5 @@
 #!/bin/sh
 
-cp -r SR_html/* /var/www/html
+cp -r COEN315_HW1_SR_html/* /var/www/html
 
 
