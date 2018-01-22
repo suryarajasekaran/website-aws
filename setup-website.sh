@@ -1,5 +1,5 @@
 #!/bin/sh
 
-cp SR_html/* /var/www/html
+cp -r SR_html/* /var/www/html
 
 
